@@ -7,10 +7,11 @@ I am using React.js and Chakra UI.
 In this project I practice the UseState, UseEffect and the library Chakra UI.
 
 
-##URL
+## URL
 
+https://products-select.netlify.app
 
-##License
+## License
 MIT License
 
 Copyright (c) [2022] [Paola Rossi]
